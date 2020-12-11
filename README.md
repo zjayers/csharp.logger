@@ -1,4 +1,4 @@
-# sharp logger
+# Csharp Logger
 [![GitHub Release](https://img.shields.io/github/release/zjayers/csharp.logger.svg?style=flat)]()
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/csharp.logger.svg?style=flat)]()
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/csharp.logger.svg?maxAge=25000)](https://github.com/zjayers/csharp.logger/issues)
